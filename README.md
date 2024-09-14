@@ -1,2 +1,2 @@
 # yybots
-基于MCC开发的便捷式客户端
+基于mineflayer开发的便捷式客户端
